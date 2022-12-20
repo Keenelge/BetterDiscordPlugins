@@ -4,9 +4,9 @@
  * @author Vishnya
  * @authorId 282541644484575233
  * @version 1.0
- * @website https://github.com/Keenelge/BetterDiscordPlugins/tree/release/src/StreamPreview
- * @source https://github.com/Keenelge/BetterDiscordPlugins/tree/release/src/StreamPreview
- * @updateUrl https://raw.githubusercontent.com/https://github.com/Keenelge/BetterDiscordPlugins/release/dist/StreamPreview/StreamPreview.plugin.js
+ * @website https://github.com/Keenelge/BetterDiscordPlugins/blob/release/StreamPreview.plugin.js
+ * @source https://raw.githubusercontent.com/Keenelge/BetterDiscordPlugins/release/StreamPreview.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Keenelge/BetterDiscordPlugins/release/StreamPreview.plugin.js
  */
 
 const config = {
